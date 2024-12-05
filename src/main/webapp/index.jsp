@@ -6,7 +6,7 @@
   
   <h2> Call Us : +9951288281 & 9440944346 </h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : Ongole </h3>
 
 </body>
 </html>
