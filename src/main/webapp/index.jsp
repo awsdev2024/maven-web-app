@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Dr Medikonda Ashok Kumar  <font></h1>
+<h1><font color='blue'> Welcome to Dr Medikonda Ashok Kumar  <font></h1>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
